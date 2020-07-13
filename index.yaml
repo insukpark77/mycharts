@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  eventapp-lab200:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-07-13T19:14:33.0840062+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 10893f88bb25fe719568a17441049d92531944d41f2e51c0dc32651550490c51
+    name: eventapp-lab200
+    type: application
+    urls:
+    - https://insukpark77.github.io/mycharts/eventapp-lab200-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-13T19:14:33.0830066+09:00"
